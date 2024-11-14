@@ -43,8 +43,8 @@
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; 
     ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; 
     ![Sass](https://img.shields.io/badge/Sass-%23C69%2322.svg?style=for-the-badge&logo=sass&logoColor=white) &nbsp;  
-    ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) &nbsp;   
-    ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white) &nbsp;   
+    ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) &nbsp;
+    ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white) &nbsp;
     ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 
 - **Bases de Datos**: 
@@ -92,8 +92,8 @@
 <div align="center">
 
 <a href="https://github.com/GustavoAuger">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoAuger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAuger&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="GustavoAuger"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoAuger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAuger&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" height="250" alt="GustavoAuger"/>
 </a>
 </div>
 
