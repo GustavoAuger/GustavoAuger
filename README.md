@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/ezgif-4-aa45ab7da8.gif?raw=true+" style="width: 70%; display: block; margin: 0 auto;" />
+  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/ezgif-4-aa45ab7da8.gif?raw=true+" style="width: 70%; display: block; margin-bottom: -50px;" />
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 - Currently refocusing my career towards software development and programming.
 - Finalizing studies as an Analyst Programmer with continuous certifications in tech.
 - Self-driven learner, constantly improving my technical skills.
-- Open to new opportunities in software development.[my resume](https://drive.google.com/file/d/1e5QZK_qQZ7jGNcjPNGb0kippbnc8kwDx/view?usp=sharing)
+- Open to new opportunities in software development. 
+- [My resume](https://drive.google.com/file/d/1e5QZK_qQZ7jGNcjPNGb0kippbnc8kwDx/view?usp=sharing)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
