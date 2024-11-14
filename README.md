@@ -31,51 +31,44 @@
 
 - **Desarrollo Backend**: 
 
-    ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
-    ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-    ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)  &nbsp; 
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  &nbsp;
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  &nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  &nbsp;
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
-</p>
 - **Desarrollo Frontend y Móvil**:
 
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Sass](https://img.shields.io/badge/Sass-%23C69%2322.svg?style=for-the-badge&logo=sass&logoColor=white)  
-    ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
-    ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)  
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; 
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; 
+    ![Sass](https://img.shields.io/badge/Sass-%23C69%2322.svg?style=for-the-badge&logo=sass&logoColor=white)  &nbsp;  
+    ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) &nbsp;   
+    ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white) &nbsp;   
     ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 
 - **Bases de Datos**: 
  
-    ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
-    ![Supabase](https://img.shields.io/badge/Supabase-%2300D1B2.svg?style=for-the-badge&logo=supabase&logoColor=white)  
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-    ![Redis](https://img.shields.io/badge/Redis-%23D92C2F.svg?style=for-the-badge&logo=redis&logoColor=white)  
+    ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  &nbsp; 
+    ![Supabase](https://img.shields.io/badge/Supabase-%2300D1B2.svg?style=for-the-badge&logo=supabase&logoColor=white)  &nbsp; 
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  &nbsp;  
+    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)   &nbsp; 
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)   &nbsp; 
+    ![Redis](https://img.shields.io/badge/Redis-%23D92C2F.svg?style=for-the-badge&logo=redis&logoColor=white)   &nbsp; 
 
 - **Control de Versiones y Contenedores**: 
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp; 
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
+    ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp;   
 
 - **Despliegue en la Nube**:
 
-    ![Azure](https://img.shields.io/badge/Azure-%23007ACC.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-    ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-    ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-    ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)  
-    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+    ![Azure](https://img.shields.io/badge/Azure-%23007ACC.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  &nbsp; 
+    ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  &nbsp; 
+    ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  &nbsp; 
+    ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)  &nbsp; 
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  &nbsp; 
 
     
 ## 🏆 Certificaciones
