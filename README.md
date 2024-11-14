@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/ezgif-4-aa45ab7da8.gif?raw=true+" style="display: block; margin: 0 auto;" />
+  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/ezgif-4-aa45ab7da8.gif?raw=true+" style="width: 70%; display: block; margin: 0 auto;" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=hello+welcome..&hearts;++;Software+Engineer,;Passionate+about+Tech,;Always+Learning+and+Growing"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+welcome!!&hearts;++;i'M+Software+Engineer,;Passionate+about+Tech,;Always+Learning+and+Growing"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
