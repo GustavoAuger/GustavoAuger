@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/GustavoAuger.gif?raw=true+" style="width: 90%; display: block;" />
+  <img src="https://github.com/GustavoAuger/GustavoAuger/blob/master/GustavoAugerG.gif?raw=true+" style="width: 100%; display: block;" />
 </p>
 
 <p align="center">
