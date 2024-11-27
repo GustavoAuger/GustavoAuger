@@ -76,7 +76,7 @@
 
 - **Certified Entry-Level Python Programmer (PCEP)** - [Ver credencial](https://www.credly.com/badges/6f84aa88-86d0-4d2e-aeb8-21257b298621/public_url)
 - **Microsoft Certified: Azure Fundamentals** - [Ver credencial](https://www.credly.com/badges/2c32bd44-a5ef-40ef-9c09-c4f769d009bf/public_url)
-- **Java Certified Foundations Associate** - [Ver credencial]([https://www.credly.com/badges/2c32bd44-a5ef-40ef-9c09-c4f769d009bf/public_url](https://catalog-education.oracle.com/ords/certview/sharebadge?id=921D6F2EA33281980D29DD3394557ADB47B1BD427C3F53F6FA953B3BBD008DB4))
+- **Java Certified Foundations Associate** - [Ver credencial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=921D6F2EA33281980D29DD3394557ADB47B1BD427C3F53F6FA953B3BBD008DB4)
 - **Inglés Nivel B1 (Intermedio)**
 
 
