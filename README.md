@@ -15,7 +15,7 @@
 - Finalizing studies as an Analyst Programmer with continuous certifications in tech.
 - Self-driven learner, constantly improving my technical skills.
 - Open to new opportunities in software development. 
-- [My resume](https://drive.google.com/file/d/1e5QZK_qQZ7jGNcjPNGb0kippbnc8kwDx/view?usp=sharing)
+- [My resume](https://https://drive.google.com/drive/u/0/folders/1IL5utr5RDDrFZzc2OIoTSRoMvowcSLvH)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
